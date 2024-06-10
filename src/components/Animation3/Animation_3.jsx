@@ -15,6 +15,8 @@ import { AiOutlineDeploymentUnit } from "react-icons/ai"; // Deployment
 //Style Imports
 import './animation_3.style.scss';
 
+//Adding this line for git activity
+
 export default function Animation3Component() {
     const iconSize = 50
 
