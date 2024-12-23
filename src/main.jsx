@@ -5,7 +5,7 @@ import './index.css'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  //Deleting this line  for git activity
+  //Added this line  for git activity
   <React.StrictMode>
     <App />
   </React.StrictMode>,
